@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello
+
+I'm a Physics undergraduate who's interested in programming, FOSS, and GNU/Linux.
 
 <!--
 **hhn-pham/hhn-pham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
