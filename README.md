@@ -1,4 +1,4 @@
-### Hello
+### Hello ☕️
 
 I'm a Physics undergraduate who's interested in programming, FOSS, and GNU/Linux.
 
