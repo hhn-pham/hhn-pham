@@ -1,6 +1,6 @@
 ### How do you do, fellow 🤓?
 
-I'm a Physics undergraduate who's interested in programming, FOSS, and GNU/Linux.
+I'm a Physics undergraduate who's interested in programming, FOSS, and GNU/Linux. My old coding repos are pretty rubbish. I'm working on my DS&A in the meantime. Mainly here for all the Neovim goodies!
 
 <!--
 **hhn-pham/hhn-pham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
