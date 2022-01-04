@@ -1,6 +1,10 @@
-### How do you do, fellow 🤓?
+<h1 align="center">How do you do, fellow nerds?</h1>
 
-I'm a Physics undergraduate who's interested in programming, FOSS, and GNU/Linux. My old coding repos are pretty rubbish. I'm working on my DS&A in the meantime. Mainly here for all the Neovim goodies!
+### About me
+I'm a Physics undergraduate who's interested in programming, FOSS, and GNU/Linux. Mainly here for all the Neovim goodies!
+
+### Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhn-pham&hide=html,vim%20snippet,css&layout=compact&langs_count=10&hide_border=true&&theme=github_dark" /></p>
 
 <!--
 **hhn-pham/hhn-pham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
