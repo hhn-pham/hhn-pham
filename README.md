@@ -1,7 +1,7 @@
-<h1 align="center">How do you do, fellow nerds?</h1>
+<h1 align="center">Obligatory README.md</h1>
 
 ### About me
-I'm a Physics undergraduate who's interested in programming, FOSS, and GNU/Linux. Mainly here for all the Neovim goodies!
+I'm Nhat, a Physics undergraduate who's interested in programming, FOSS, and GNU/Linux. Mainly here for all the Neovim goodies!
 
 ### Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mstcl&hide=html,vim%20snippet,css&layout=compact&langs_count=10&hide_border=true&&theme=github_dark" /></p>
