@@ -1,6 +1,5 @@
-<h1 align="center">Obligatory README.md</h1>
+<h1 align="left">About me</h1>
 
-### About me
 I'm Nhat, a Physics undergraduate who's interested in programming, FOSS, and GNU/Linux. Mainly here for all the Neovim goodies!
 
 ### Stats
