@@ -2,14 +2,16 @@
 
 I'm Nhat, a Physics undergraduate who's interested in programming, FOSS, and GNU/Linux. Mainly here for all the Neovim goodies!
 
+### Contacts
+<p>
+Matrix: lckdscl@matrix.org
+
+Mail: phh_nhat@protonmail.com
+</p>
+
 ### Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mstcl&hide=html,vim%20snippet,css&layout=compact&langs_count=10&hide_border=true&&theme=github_dark" /></p>
 
-### Contacts
-Matrix: lckdscl@matrix.org
-Mail: phh_nhat@protonmail.com
-
-I'm also lckdscl on irc/Libera
 
 <!--
 **hhn-pham/hhn-pham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
