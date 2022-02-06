@@ -7,7 +7,7 @@
 Matrix: lckdscl@matrix.org
 </li>
 <li>
-Mail: phh_nhat@protonmail.com
+Mail: phh_nhat(AT)protonmail(DOT)com
 </li>
 <li>
 Libera (IRC): lckdscl
