@@ -7,10 +7,10 @@
 Matrix: lckdscl@matrix.org
 </li>
 <li>
-Mail: lckdscl(AT)disroot(DOT)org
-</li>
+Mail: lckdscl [at] disroot [dot] org
+</li
 <li>
-Libera (IRC): lckdscl
+Libera: lckdscl
 </li>
 <li>
 XMPP: lckdscl@ebin.city
