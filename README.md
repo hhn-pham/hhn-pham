@@ -3,18 +3,10 @@
 <h4> I'm Nhat, a Physics undergraduate who's interested in programming, FOSS, and GNU/Linux.</h4>
 
 ### Contacts
-<li>
-Matrix: lckdscl@matrix.org
-</li>
-<li>
-Mail: lckdscl [at] disroot [dot] org
-</li
-<li>
-Libera: lckdscl
-</li>
-<li>
-XMPP: lckdscl@ebin.city
-</li>
+<li>Matrix: lckdscl@matrix.org</li>
+<li>Mail: lckdscl [at] disroot [dot] org</li>
+<li>Libera: lckdscl</li>
+<li>XMPP: lckdscl@ebin.city</li>
 
 ### Other things
 <li><a href="https://listenbrainz.org/user/lckdscl">
