@@ -18,4 +18,4 @@ Codeberg
 
 
 ### Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mstcl&hide=html,vim%20snippet,css&layout=compact&langs_count=10&hide_border=true&&theme=github_dark" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mstcl&hide=tex,html,vim%20snippet,css&layout=compact&langs_count=10&hide_border=true&&theme=github_dark" /></p>
