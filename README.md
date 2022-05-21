@@ -1,6 +1,6 @@
 <h1 align="left">About me</h1>
 
-<h4> I'm Nhat, a Physics undergraduate who's interested in programming, FOSS, and GNU/Linux.</h4>
+<h4> I'm Nhat, a Physics (and Philosophy) undergraduate who's interested in programming, FOSS, and GNU/Linux.</h4>
 
 ### Contacts
 <li>Matrix: lckdscl@matrix.org</li>
