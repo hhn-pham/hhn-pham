@@ -1,6 +1,6 @@
 <h1 align="left">About me</h1>
 
-<h4> Just physics undergraduate dabbling in programming, open-source software, self-hosted and Linux.</h4>
+<h4> Just a physics undergraduate dabbling in programming, open-source software, self-hosted and Linux.</h4>
 
 
 
