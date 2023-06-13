@@ -1,20 +1,9 @@
 <h1 align="left">About me</h1>
 
-<h4> I'm Nhat, a Physics (and Philosophy) undergraduate who's interested in programming, FOSS, and GNU/Linux.</h4>
+<h4> Just physics undergraduate dabbling in programming, open-source software, self-hosted and Linux.</h4>
 
-### Contacts
-<li>Matrix: lckdscl@matrix.org</li>
-<li>Mail: lckdscl [at] disroot [dot] org</li>
-<li>Libera: lckdscl</li>
-<li>XMPP: lckdscl@ebin.city</li>
 
-### Other things
-<li><a href="https://listenbrainz.org/user/lckdscl">
-Listenbrainz
-</li></a>
-<li><a href="https://codeberg.org/lckdscl">
-Codeberg
-</li></a>
+
 
 
 ### Stats
