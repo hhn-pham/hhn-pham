@@ -7,4 +7,4 @@ See [git.bim.boats](https://git.bim.boats/?q=lckdscl) for my projects instead, m
 
 -------
 
-Just a physics undergraduate dabbling in programming, open-source software, self-hosted and Linux.
+Just a physics undergraduate dabbling in programming, free and open-source software, self-hosted and Linux.
