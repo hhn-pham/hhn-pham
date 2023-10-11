@@ -9,4 +9,4 @@ This is a mirror for my projects. See [git.bim.boats](https://git.bim.boats/?q=l
 
 Just a physics undergraduate dabbling in programming, free & open-source software, self-hosted and Linux.
 
-Also known as lckdscl on various platforms.
+Also known as \<lckdscl\> on various platforms.
