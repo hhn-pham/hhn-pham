@@ -1,9 +1,4 @@
-
-
-
-
-
-This is a mirror for my projects. See [git.bim.boats](https://git.bim.boats/?q=lckdscl) for the same stuff, minus all the bloat and data collection from Microsoft.
+See [this cgit mirror](https://git.bim.boats/?q=lckdscl) to access my repos if you don't need the bloat.
 
 -------
 
